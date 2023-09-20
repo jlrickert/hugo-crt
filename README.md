@@ -1,2 +1,7 @@
-# retro-terminal-theme
-Retro terminal inspired theme
+# Theme Name
+
+## Features
+
+## Installation
+
+## Configuration

@@ -1,0 +1,17 @@
+version = 2
+name = 'crt'
+license = 'Apache License 2.0'
+licenselink = 'https://github.com/jlrickert/hugo-crt/LICENSE'
+description = 'An app like experience emulating an old school crt'
+
+# The home page of the theme, where the source can be found
+homepage = 'https://github.com/jlrickert/hugo-crt'
+
+# Taxonomy terms
+tags = ['blog', 'portfolio']
+features = ['responsive']
+
+# If the theme has a single author
+[author]
+name = 'Jared Rickert'
+homepage = 'https://jlrickert.me'
